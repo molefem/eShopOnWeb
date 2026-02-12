@@ -9,7 +9,7 @@ env:
   LOCATION: westus2
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: e4a98dc8-0211-4cde-8db9-3ce9f25a8440
-  WEBAPP-NAME: molefem67-web
+  WEBAPP-NAME: molefem67-web38638
 
 jobs:
   #Build, test and publish .net web project in repository
